@@ -2,11 +2,11 @@
 # Progetto-finale-2025-Cosestrane
 Progetto finale Programmazione Procedurale UniPG Informatica
 
-## Nome: 
+## Nome: Shawn Gheorghe
 
-## Cognome: 
+## Cognome: Cionca
 
-## Matricola:
+## Matricola: 390633
 
-## Commenti/modifiche al progetto:
+## Commenti/modifiche al progetto: Progetto completato con le funzionalità richieste.
 
